@@ -1,2 +1,2 @@
-# NPV-calculator
-Calculating Net Present Value of Investment!
+# Time-Value-of-Money
+Calculating Time-Value-of-Money!
